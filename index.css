@@ -37,7 +37,7 @@ h2 {
     animation-name: example;
     animation-duration: 4s;
     animation-delay: 1.25s;
-    animation: example 15s infinite;
+    animation: example 18s infinite;
 }
 
 @keyframes example {

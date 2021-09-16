@@ -36,7 +36,7 @@ h2 {
     position: relative;
     animation-name: example;
     animation-duration: 4s;
-    animation-delay: 0s;
+    animation-delay: 1.25s;
     animation: example 15s infinite;
 }
 
